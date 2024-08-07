@@ -13,9 +13,4 @@ In the course, we have various subjects, including some focused on programming a
 
 If you prefer, you can contact me by email: karlapascoalini@gmail.com
 
-<div>
-<p align=center>
- <a href="www.linkedin.com/in/karla-rovedo-pascoalini-866239192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-
 ![image](https://user-images.githubusercontent.com/107007032/194929548-544534ff-b4a2-4deb-be40-933d1f012620.png)
